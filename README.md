@@ -1,6 +1,6 @@
-# Hi, I'm Fernando Ariel Bobadilla 👋
+# Hi, I'm Fernando Ariel Bobadilla
 
-Backend / Full-stack Developer in training, focused on building practical projects that solve real problems.
+System Analyst and Full-stack Developer, focused on building practical projects that solve real problems.
 
 ## 🚀 Featured Projects
 
@@ -9,8 +9,8 @@ A visual analytics dashboard for any GitHub user — language distribution, mont
 
 **Tech stack:** FastAPI · React · Chart.js · GitHub REST API
 
+🔗 [Live demo](https://github-dashboard-orpin.vercel.app/)
 🔗 [View code](https://github.com/ferxz10/github-dashboard)
-🔗 [Live demo](#) <!-- add your deployed URL here once available -->
 
 ## 🛠️ Tech Stack
 
@@ -18,19 +18,4 @@ A visual analytics dashboard for any GitHub user — language distribution, mont
 
 ## 📫 Let's connect
 
-[LinkedIn](#) https://www.linkedin.com/in/fernandoo1111/
-
-<!--
-**ferxz10/ferxz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn]( https://www.linkedin.com/in/fernandoo1111/)
